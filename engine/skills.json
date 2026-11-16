@@ -1,0 +1,1581 @@
+{
+  "skills": {
+    "python": {
+      "type": "technical",
+      "aliases": [
+        "python3",
+        "py"
+      ]
+    },
+    "java": {
+      "type": "technical",
+      "aliases": [
+        "core java"
+      ]
+    },
+    "javascript": {
+      "type": "technical",
+      "aliases": [
+        "js",
+        "ecmascript",
+        "es6"
+      ]
+    },
+    "typescript": {
+      "type": "technical",
+      "aliases": [
+        "ts"
+      ]
+    },
+    
+    "c++": {
+      "type": "technical",
+      "aliases": [
+        "cpp"
+      ]
+    },
+    "c#": {
+      "type": "technical",
+      "aliases": [
+        "csharp"
+      ]
+    },
+    "go": {
+      "type": "technical",
+      "aliases": [
+        "golang"
+      ]
+    },
+    "sql": {
+      "type": "technical",
+      "aliases": [
+        "structured query language",
+        "t-sql",
+        "pl/sql"
+      ]
+    },
+    "relational databases": {
+    "type": "technical",
+    "aliases": [
+        "relational database",
+        "rdbms",
+        "relational database management system",
+        "relational database management systems"
+    ]
+},
+    "html": {
+      "type": "technical",
+      "aliases": [
+        "html5"
+      ]
+    },
+    "css": {
+      "type": "technical",
+      "aliases": [
+        "css3"
+      ]
+    },
+    "fastapi": {
+      "type": "technical",
+      "aliases": [
+        "fast api"
+      ]
+    },
+    "flask": {
+      "type": "technical",
+      "aliases": []
+    },
+    "django": {
+      "type": "technical",
+      "aliases": [
+        "django rest framework",
+        "drf"
+      ]
+    },
+    "spring boot": {
+      "type": "technical",
+      "aliases": [
+        "springboot",
+        "spring"
+      ]
+    },
+    "node.js": {
+      "type": "technical",
+      "aliases": [
+        "nodejs",
+        "node js",
+        "node"
+      ]
+    },
+    "express": {
+      "type": "technical",
+      "aliases": [
+        "express.js",
+        "expressjs"
+      ]
+    },
+    "react": {
+      "type": "technical",
+      "aliases": [
+        "react.js",
+        "reactjs",
+        "react js"
+      ]
+    },
+    "angular": {
+      "type": "technical",
+      "aliases": [
+        "angularjs",
+        "angular.js"
+      ]
+    },
+    "vue": {
+      "type": "technical",
+      "aliases": [
+        "vue.js",
+        "vuejs"
+      ]
+    },
+    "streamlit": {
+      "type": "technical",
+      "aliases": []
+    },
+    "rest apis": {
+      "type": "technical",
+      "aliases": [
+        "rest api",
+        "restful api",
+        "restful apis",
+        "rest",
+        "restful services",
+        "restful web services",
+        "restful"
+      ]
+    },
+    "http": {
+      "type": "technical",
+      "aliases": [
+        "http methods",
+        "http protocol",
+        "http requests"
+      ]
+    },
+    "graphql": {
+      "type": "technical",
+      "aliases": []
+    },
+    "api integration": {
+      "type": "technical",
+      "aliases": [
+        "api integrations",
+        "third-party api integration"
+      ]
+    },
+    "authentication": {
+  "type": "technical",
+  "aliases": [
+    "auth",
+    "api authentication"
+  ]
+},
+"authorization": {
+  "type": "technical",
+  "aliases": [
+    "access authorization"
+  ]
+},
+    "jwt": {
+      "type": "technical",
+      "aliases": [
+        "json web token",
+        "json web tokens",
+        "jwt authentication",
+        "jwt-based authentication"
+      ]
+    },
+
+
+
+    "oauth": {
+      "type": "technical",
+      "aliases": [
+        "oauth2",
+        "oauth 2.0"
+      ]
+    },
+    "microservices": {
+      "type": "technical",
+      "aliases": [
+        "microservice",
+        "microservice architecture"
+      ]
+    },
+    "mysql": {
+      "type": "technical",
+      "aliases": []
+    },
+    "postgresql": {
+      "type": "technical",
+      "aliases": [
+        "postgres",
+        "psql"
+      ]
+    },
+    "sqlite": {
+      "type": "technical",
+      "aliases": [
+        "sqlite3"
+      ]
+    },
+    "oracle": {
+      "type": "technical",
+      "aliases": [
+        "oracle db",
+        "oracle database"
+      ]
+    },
+    "sql server": {
+      "type": "technical",
+      "aliases": [
+        "mssql",
+        "ms sql",
+        "microsoft sql server"
+      ]
+    },
+    "mongodb": {
+      "type": "technical",
+      "aliases": [
+        "mongo"
+      ]
+    },
+    "redis": {
+      "type": "technical",
+      "aliases": ["redis caching","redis ca"]
+    },
+    "sqlalchemy orm": {
+  "type": "technical",
+  "aliases": [
+    "sqlalchemy",
+    "sqlalchemy-orm",
+    "sql alchemy"
+  ]
+},
+    "git": {
+      "type": "tool",
+      "aliases": [
+        "git version control"
+      ]
+    },
+    "github": {
+      "type": "tool",
+      "aliases": [
+        "github.com"
+      ]
+    },
+    "gitlab": {
+      "type": "tool",
+      "aliases": []
+    },
+    "docker": {
+      "type": "tool",
+      "aliases": [
+        "dockerfile",
+        "docker compose",
+        "docker-compose",
+        "containerization",
+        "containers"
+      ]
+    },
+    "docker hub": {
+      "type": "tool",
+      "aliases": [
+        "dockerhub"
+      ]
+    },
+    "kubernetes": {
+      "type": "tool",
+      "aliases": [
+        "k8s"
+      ]
+    },
+    "postman": {
+      "type": "tool",
+      "aliases": []
+    },
+    "swagger": {
+      "type": "tool",
+      "aliases": [
+        "openapi"
+      ]
+    },
+    "linux": {
+      "type": "tool",
+      "aliases": [
+        "unix",
+        "bash",
+        "shell scripting"
+      ]
+    },
+    "jira": {
+      "type": "tool",
+      "aliases": []
+    },
+    "deployment": {
+      "type": "technical",
+      "aliases": [
+        "application deployment",
+        "app deployment",
+        "deploying applications",
+        "deploy applications"
+      ]
+    },
+    "aws": {
+      "type": "technical",
+      "aliases": [
+        "amazon web services",
+        "ec2",
+        "s3",
+        "lambda",
+        "aws cloud services",
+        "aws cloud"
+      ]
+    },
+    "azure": {
+      "type": "technical",
+      "aliases": [
+        "microsoft azure"
+      ]
+    },
+    "gcp": {
+      "type": "technical",
+      "aliases": [
+        "google cloud",
+        "google cloud platform"
+      ]
+    },
+    "cloud platforms": {
+      "type": "technical",
+      "aliases": [
+        "cloud platform",
+        "cloud computing",
+        "cloud services"
+      ]
+    },
+    "ci/cd": {
+      "type": "technical",
+      "aliases": [
+        "ci cd",
+        "cicd",
+        "ci/cd pipelines",
+        "ci/cd pipeline",
+        "continuous integration",
+        "continuous deployment",
+        "continuous delivery"
+      ]
+    },
+    "github actions": {
+      "type": "tool",
+      "aliases": []
+    },
+    "jenkins": {
+      "type": "tool",
+      "aliases": []
+    },
+    "terraform": {
+      "type": "tool",
+      "aliases": []
+    },
+    "data structures": {
+      "type": "technical",
+      "aliases": [
+        "data structure",
+        "dsa",
+        "data structures and algorithms"
+      ]
+    },
+    "algorithms": {
+      "type": "technical",
+      "aliases": [
+        "algorithm",
+        "algorithmic problem solving"
+      ]
+    },
+    "oop": {
+    "type": "technical",
+    "display_name": "object oriented programming",
+    "aliases": [
+        "object-oriented",
+        "object oriented",
+        "object-oriented programming",
+        "object oriented programming"
+    ]
+},
+    "design patterns": {
+      "type": "technical",
+      "aliases": [
+        "design pattern"
+      ]
+    },
+    "unit testing": {
+  "type": "technical",
+  "aliases": [
+    "unit tests",
+    "unittest",
+    "junit",
+    "test-driven development",
+    "tdd"
+  ]
+},
+"pytest": {
+  "type": "technical",
+  "aliases": [
+    "py.test"
+  ]
+},
+    "debugging": {
+      "type": "technical",
+      "aliases": [
+        "troubleshooting",
+        "bug fixing"
+      ]
+    },
+    "code review": {
+      "type": "technical",
+      "aliases": [
+        "code reviews"
+      ]
+    },
+    "agile": {
+      "type": "technical",
+      "aliases": [
+        "scrum",
+        "agile methodology",
+        "agile methodologies"
+      ]
+    },
+    "pandas": {
+      "type": "technical",
+      "aliases": []
+    },
+    "numpy": {
+      "type": "technical",
+      "aliases": []
+    },
+    "scikit-learn": {
+      "type": "technical",
+      "aliases": [
+        "sklearn",
+        "scikit learn"
+      ]
+    },
+    "matplotlib": {
+      "type": "technical",
+      "aliases": []
+    },
+    "seaborn": {
+      "type": "technical",
+      "aliases": []
+    },
+    "statsmodels": {
+      "type": "technical",
+      "aliases": []
+    },
+    "tensorflow": {
+      "type": "technical",
+      "aliases": []
+    },
+    "pytorch": {
+      "type": "technical",
+      "aliases": [
+        "torch"
+      ]
+    },
+    "machine learning": {
+      "type": "technical",
+      "aliases": [
+        "ml",
+        "random forest",
+        "linear regression",
+        "logistic regression",
+        "regression models",
+        "supervised learning",
+        "unsupervised learning",
+        "decision trees"
+      ]
+    },
+    "deep learning": {
+      "type": "technical",
+      "aliases": [
+        "dl"
+      ]
+    },
+    "nlp": {
+      "type": "technical",
+      "aliases": [
+        "natural language processing"
+      ]
+    },
+    "time series forecasting": {
+      "type": "technical",
+      "aliases": [
+        "time-series forecasting",
+        "time series",
+        "time-series",
+        "arima",
+        "sarimax"
+      ]
+    },
+    "data analysis": {
+      "type": "technical",
+      "aliases": [
+        "data analytics",
+        "exploratory data analysis",
+        "eda"
+      ]
+    },
+    "data visualization": {
+      "type": "technical",
+      "aliases": [
+        "data visualisation"
+      ]
+    },
+    "power bi": {
+      "type": "tool",
+      "aliases": [
+        "powerbi"
+      ]
+    },
+    "tableau": {
+      "type": "tool",
+      "aliases": []
+    },
+    "excel": {
+      "type": "tool",
+      "aliases": [
+        "microsoft excel",
+        "ms excel"
+      ]
+    },
+    "etl": {
+      "type": "technical",
+      "aliases": [
+        "data pipelines",
+        "data pipeline"
+      ]
+    },
+    "generative ai": {
+      "type": "technical",
+      "aliases": [
+        "genai",
+        "gen ai",
+        "llm",
+        "llms",
+        "large language models"
+      ]
+    },
+    "problem-solving": {
+      "type": "soft",
+      "aliases": [
+        "problem solving",
+        "analytical thinking",
+        "analytical skills",
+        "analytical"
+      ]
+    },
+    "communication": {
+      "type": "soft",
+      "aliases": [
+        "communication skills",
+        "verbal communication",
+        "written communication"
+      ]
+    },
+    "teamwork": {
+      "type": "soft",
+      "aliases": [
+        "team work",
+        "collaboration",
+        "team player",
+        "collaborative"
+      ]
+    },
+    "willingness to learn": {
+      "type": "soft",
+      "aliases": [
+        "eager to learn",
+        "quick learner",
+        "fast learner",
+        "learn new technologies"
+      ]
+    },
+    "leadership": {
+      "type": "soft",
+      "aliases": [
+        "team leadership"
+      ]
+    },
+    "time management": {
+      "type": "soft",
+      "aliases": []
+    },
+    "adaptability": {
+      "type": "soft",
+      "aliases": [
+        "flexibility"
+      ]
+    },
+    "php": {
+      "type": "technical",
+      "aliases": [
+        "php7",
+        "php8"
+      ]
+    },
+    "ruby": {
+      "type": "technical",
+      "aliases": []
+    },
+    "rust": {
+      "type": "technical",
+      "aliases": []
+    },
+    "kotlin": {
+      "type": "technical",
+      "aliases": []
+    },
+    "swift": {
+      "type": "technical",
+      "aliases": []
+    },
+    "scala": {
+      "type": "technical",
+      "aliases": []
+    },
+    "dart": {
+      "type": "technical",
+      "aliases": []
+    },
+    "perl": {
+      "type": "technical",
+      "aliases": []
+    },
+    "matlab": {
+      "type": "technical",
+      "aliases": []
+    },
+    "powershell": {
+      "type": "tool",
+      "aliases": []
+    },
+    "r programming": {
+      "type": "technical",
+      "aliases": [
+        "r language",
+        "rstudio"
+      ]
+    },
+    ".net": {
+      "type": "technical",
+      "aliases": [
+        ".net core",
+        "dotnet",
+        ".net framework",
+        "asp.net",
+        "asp.net core"
+      ]
+    },
+    "laravel": {
+      "type": "technical",
+      "aliases": []
+    },
+    "nestjs": {
+      "type": "technical",
+      "aliases": [
+        "nest.js",
+        "nest js"
+      ]
+    },
+    "next.js": {
+      "type": "technical",
+      "aliases": [
+        "nextjs",
+        "next js"
+      ]
+    },
+    "nuxt": {
+      "type": "technical",
+      "aliases": [
+        "nuxt.js"
+      ]
+    },
+    "svelte": {
+      "type": "technical",
+      "aliases": [
+        "sveltekit"
+      ]
+    },
+    "jquery": {
+      "type": "technical",
+      "aliases": []
+    },
+    "bootstrap": {
+      "type": "technical",
+      "aliases": []
+    },
+    "tailwind css": {
+      "type": "technical",
+      "aliases": [
+        "tailwind",
+        "tailwindcss"
+      ]
+    },
+    "redux": {
+      "type": "technical",
+      "aliases": [
+        "redux toolkit"
+      ]
+    },
+    "hibernate": {
+      "type": "technical",
+      "aliases": [
+        "jpa"
+      ]
+    },
+    "celery": {
+      "type": "technical",
+      "aliases": []
+    },
+    "pydantic": {
+      "type": "technical",
+      "aliases": []
+    },
+    "gunicorn": {
+      "type": "tool",
+      "aliases": []
+    },
+    "uvicorn": {
+      "type": "tool",
+      "aliases": []
+    },
+    "websockets": {
+      "type": "technical",
+      "aliases": [
+        "websocket",
+        "web sockets"
+      ]
+    },
+    "grpc": {
+      "type": "technical",
+      "aliases": []
+    },
+    "flutter": {
+      "type": "technical",
+      "aliases": []
+    },
+    "react native": {
+      "type": "technical",
+      "aliases": [
+        "react-native"
+      ]
+    },
+    "android": {
+      "type": "technical",
+      "aliases": [
+        "android development",
+        "android studio",
+        "android sdk"
+      ]
+    },
+    "ios": {
+      "type": "technical",
+      "aliases": [
+        "ios development"
+      ]
+    },
+    "mariadb": {
+      "type": "technical",
+      "aliases": []
+    },
+    "cassandra": {
+      "type": "technical",
+      "aliases": [
+        "apache cassandra"
+      ]
+    },
+    "dynamodb": {
+      "type": "technical",
+      "aliases": [
+        "amazon dynamodb"
+      ]
+    },
+    "elasticsearch": {
+      "type": "technical",
+      "aliases": [
+        "elastic search",
+        "elk stack"
+      ]
+    },
+    "firebase": {
+      "type": "technical",
+      "aliases": [
+        "firestore"
+      ]
+    },
+    "snowflake": {
+      "type": "technical",
+      "aliases": []
+    },
+    "bigquery": {
+      "type": "technical",
+      "aliases": [
+        "google bigquery"
+      ]
+    },
+    "neo4j": {
+      "type": "technical",
+      "aliases": []
+    },
+    "nosql": {
+      "type": "technical",
+      "aliases": [
+        "nosql databases",
+        "no-sql"
+      ]
+    },
+    "dbms": {
+      "type": "technical",
+      "aliases": [
+        "database management systems",
+        "database management system"
+      ]
+    },
+    "database design": {
+      "type": "technical",
+      "aliases": [
+        "database schema design",
+        "schema design",
+        "data modeling",
+        "data modelling"
+      ]
+    },
+    "stored procedures": {
+      "type": "technical",
+      "aliases": [
+        "stored procedure"
+      ]
+    },
+    "query optimization": {
+      "type": "technical",
+      "aliases": [
+        "query tuning",
+        "sql optimization",
+        "performance tuning"
+      ]
+    },
+    "ansible": {
+      "type": "tool",
+      "aliases": []
+    },
+    "nginx": {
+      "type": "tool",
+      "aliases": []
+    },
+    "prometheus": {
+      "type": "tool",
+      "aliases": []
+    },
+    "grafana": {
+      "type": "tool",
+      "aliases": []
+    },
+    "helm": {
+      "type": "tool",
+      "aliases": []
+    },
+    "circleci": {
+      "type": "tool",
+      "aliases": []
+    },
+    "gitlab ci": {
+      "type": "tool",
+      "aliases": [
+        "gitlab ci/cd",
+        "gitlab-ci"
+      ]
+    },
+    "bitbucket": {
+      "type": "tool",
+      "aliases": []
+    },
+    "devops": {
+      "type": "technical",
+      "aliases": []
+    },
+    "infrastructure as code": {
+      "type": "technical",
+      "aliases": [
+        "iac"
+      ]
+    },
+    "monitoring": {
+      "type": "technical",
+      "aliases": [
+        "observability",
+        "application monitoring",
+        "monitoring and logging"
+      ]
+    },
+    "load balancing": {
+      "type": "technical",
+      "aliases": [
+        "load balancer",
+        "load balancers"
+      ]
+    },
+    "serverless": {
+      "type": "technical",
+      "aliases": [
+        "serverless architecture",
+        "serverless computing"
+      ]
+    },
+    "heroku": {
+      "type": "tool",
+      "aliases": []
+    },
+    "vs code": {
+      "type": "tool",
+      "aliases": [
+        "visual studio code",
+        "vscode"
+      ]
+    },
+    "intellij": {
+      "type": "tool",
+      "aliases": [
+        "intellij idea"
+      ]
+    },
+    "pycharm": {
+      "type": "tool",
+      "aliases": []
+    },
+    "figma": {
+      "type": "tool",
+      "aliases": []
+    },
+    "jupyter": {
+      "type": "tool",
+      "aliases": [
+        "jupyter notebook",
+        "jupyter notebooks",
+        "jupyterlab",
+        "google colab",
+        "colab"
+      ]
+    },
+    "confluence": {
+      "type": "tool",
+      "aliases": []
+    },
+    "trello": {
+      "type": "tool",
+      "aliases": []
+    },
+    "kafka": {
+      "type": "technical",
+      "aliases": [
+        "apache kafka"
+      ]
+    },
+    "rabbitmq": {
+      "type": "technical",
+      "aliases": [
+        "rabbit mq"
+      ]
+    },
+    "message queues": {
+      "type": "technical",
+      "aliases": [
+        "message queue",
+        "message brokers",
+        "message broker"
+      ]
+    },
+    "selenium": {
+      "type": "tool",
+      "aliases": []
+    },
+    "cypress": {
+      "type": "tool",
+      "aliases": []
+    },
+    "jest": {
+      "type": "tool",
+      "aliases": []
+    },
+    "api testing": {
+      "type": "technical",
+      "aliases": [
+        "rest api testing",
+        "api test"
+      ]
+    },
+    "test automation": {
+      "type": "technical",
+      "aliases": [
+        "automation testing",
+        "automated testing"
+      ]
+    },
+    "integration testing": {
+      "type": "technical",
+      "aliases": [
+        "integration tests"
+      ]
+    },
+    "load testing": {
+      "type": "technical",
+      "aliases": [
+        "performance testing",
+        "jmeter",
+        "locust"
+      ]
+    },
+    "apache spark": {
+      "type": "technical",
+      "aliases": [
+        "spark",
+        "pyspark"
+      ]
+    },
+    "hadoop": {
+      "type": "technical",
+      "aliases": []
+    },
+    "airflow": {
+      "type": "tool",
+      "aliases": [
+        "apache airflow"
+      ]
+    },
+    "dbt": {
+      "type": "tool",
+      "aliases": []
+    },
+    "databricks": {
+      "type": "tool",
+      "aliases": []
+    },
+    "scipy": {
+      "type": "technical",
+      "aliases": []
+    },
+    "plotly": {
+      "type": "technical",
+      "aliases": []
+    },
+    "opencv": {
+      "type": "technical",
+      "aliases": []
+    },
+    "keras": {
+      "type": "technical",
+      "aliases": []
+    },
+    "xgboost": {
+      "type": "technical",
+      "aliases": []
+    },
+    "lightgbm": {
+      "type": "technical",
+      "aliases": []
+    },
+    "hugging face": {
+      "type": "technical",
+      "aliases": [
+        "huggingface",
+        "hugging face transformers"
+      ]
+    },
+    "transformers": {
+      "type": "technical",
+      "aliases": [
+        "transformer models",
+        "bert"
+      ]
+    },
+    "langchain": {
+      "type": "technical",
+      "aliases": []
+    },
+    "ollama": {
+      "type": "tool",
+      "aliases": []
+    },
+    "openai api": {
+      "type": "technical",
+      "aliases": [
+        "openai",
+        "chatgpt api"
+      ]
+    },
+    "rag": {
+      "type": "technical",
+      "aliases": [
+        "retrieval augmented generation",
+        "retrieval-augmented generation"
+      ]
+    },
+    "vector databases": {
+      "type": "technical",
+      "aliases": [
+        "vector database",
+        "vector db",
+        "faiss",
+        "chromadb",
+        "pinecone"
+      ]
+    },
+    "prompt engineering": {
+      "type": "technical",
+      "aliases": [
+        "prompt design",
+        "prompting"
+      ]
+    },
+    "fine-tuning": {
+      "type": "technical",
+      "aliases": [
+        "fine tuning",
+        "finetuning",
+        "lora",
+        "qlora"
+      ]
+    },
+    "computer vision": {
+      "type": "technical",
+      "aliases": [
+        "image processing",
+        "image classification"
+      ]
+    },
+    "feature engineering": {
+      "type": "technical",
+      "aliases": []
+    },
+    "statistics": {
+      "type": "technical",
+      "aliases": [
+        "statistical analysis",
+        "statistical modeling",
+        "hypothesis testing"
+      ]
+    },
+    "recommendation systems": {
+      "type": "technical",
+      "aliases": [
+        "recommender systems",
+        "recommendation system",
+        "recommender system",
+        "content-based filtering",
+        "collaborative filtering"
+      ]
+    },
+    "data preprocessing": {
+      "type": "technical",
+      "aliases": [
+        "data cleaning",
+        "data preparation",
+        "data wrangling"
+      ]
+    },
+    "model evaluation": {
+      "type": "technical",
+      "aliases": [
+        "model validation",
+        "cross-validation",
+        "cross validation"
+      ]
+    },
+    "mlops": {
+      "type": "technical",
+      "aliases": [
+        "ml ops"
+      ]
+    },
+    "a/b testing": {
+      "type": "technical",
+      "aliases": [
+        "ab testing"
+      ]
+    },
+    "big data": {
+      "type": "technical",
+      "aliases": [
+        "bigdata"
+      ]
+    },
+    "data warehousing": {
+      "type": "technical",
+      "aliases": [
+        "data warehouse",
+        "data warehouses"
+      ]
+    },
+    "owasp": {
+      "type": "technical",
+      "aliases": [
+        "owasp top 10"
+      ]
+    },
+    "ssl/tls": {
+      "type": "technical",
+      "aliases": [
+        "ssl",
+        "tls"
+      ]
+    },
+    "encryption": {
+      "type": "technical",
+      "aliases": [
+        "cryptography"
+      ]
+    },
+    "application security": {
+      "type": "technical",
+      "aliases": [
+        "api security",
+        "secure coding"
+      ]
+    },
+    "rbac": {
+      "type": "technical",
+      "aliases": [
+        "role-based access control",
+        "role based access control"
+      ]
+    },
+    "sso": {
+      "type": "technical",
+      "aliases": [
+        "single sign-on",
+        "single sign on"
+      ]
+    },
+    "system design": {
+      "type": "technical",
+      "aliases": [
+        "low level design",
+        "high level design",
+        "software architecture",
+        "scalable systems",
+        "scalable architecture",
+        "architecture design"
+      ]
+    },
+    "caching": {
+      "type": "technical",
+      "aliases": [
+        "caching strategies",
+        "cache invalidation"
+      ]
+    },
+    "concurrency": {
+      "type": "technical",
+      "aliases": [
+        "multithreading",
+        "multi-threading",
+        "multiprocessing",
+        "asynchronous programming",
+        "async programming",
+        "asyncio",
+        "async/await"
+      ]
+    },
+    "api design": {
+      "type": "technical",
+      "aliases": [
+        "api development",
+        "api design principles",
+        "endpoint design"
+      ]
+    },
+    "sdlc": {
+      "type": "technical",
+      "aliases": [
+        "software development life cycle",
+        "software development lifecycle"
+      ]
+    },
+    "operating systems": {
+      "type": "technical",
+      "aliases": [
+        "operating system",
+        "os concepts"
+      ]
+    },
+    "computer networks": {
+      "type": "technical",
+      "aliases": [
+        "computer networking",
+        "networking",
+        "tcp/ip"
+      ]
+    },
+    "clean code": {
+      "type": "technical",
+      "aliases": [
+        "clean architecture",
+        "solid principles",
+        "maintainable code"
+      ]
+    },
+    "version control": {
+      "type": "technical",
+      "aliases": [
+        "version control systems",
+        "source control"
+      ]
+    },
+    "code quality": {
+      "type": "technical",
+      "aliases": [
+        "linting",
+        "static analysis",
+        "sonarqube"
+      ]
+    },
+    "critical thinking": {
+      "type": "soft",
+      "aliases": []
+    },
+    "attention to detail": {
+      "type": "soft",
+      "aliases": [
+        "detail-oriented",
+        "detail oriented"
+      ]
+    },
+    "ownership": {
+      "type": "soft",
+      "aliases": [
+        "accountability",
+        "self-motivated",
+        "self-driven",
+        "initiative"
+      ]
+    },
+    "mentoring": {
+      "type": "soft",
+      "aliases": [
+        "mentorship",
+        "coaching"
+      ]
+    },
+    "presentation skills": {
+      "type": "soft",
+      "aliases": [
+        "public speaking",
+        "presenting"
+      ]
+    },
+    "stakeholder management": {
+      "type": "soft",
+      "aliases": [
+        "client communication",
+        "client management",
+        "stakeholder communication"
+      ]
+    },
+    "decision making": {
+      "type": "soft",
+      "aliases": [
+        "decision-making"
+      ]
+    },
+    "creativity": {
+      "type": "soft",
+      "aliases": [
+        "creative thinking",
+        "innovation"
+      ]
+    },
+    "interpersonal skills": {
+      "type": "soft",
+      "aliases": [
+        "interpersonal communication"
+      ]
+    },
+    "conflict resolution": {
+      "type": "soft",
+      "aliases": []
+    }
+  },
+  "implies": {
+    "relational databases": [
+      "mysql",
+      "postgresql",
+      "sqlite",
+      "oracle",
+      "sql server",
+      "sql"
+    ],
+    
+    "databases": [
+      "mysql",
+      "postgresql",
+      "sqlite",
+      "oracle",
+      "sql server",
+      "mongodb",
+      "redis",
+      "sql",
+      "mariadb",
+      "cassandra",
+      "dynamodb",
+      "firebase",
+      "neo4j"
+    ],
+    
+    "nosql": [
+      "mongodb",
+      "redis",
+      "cassandra",
+      "dynamodb",
+      "firebase",
+      "neo4j"
+    ],
+    "cloud platforms": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "ci/cd": [
+      "github actions",
+      "jenkins",
+      "gitlab",
+      "circleci",
+      "gitlab ci"
+    ],
+    "deployment": [
+      "docker",
+      "kubernetes",
+      "heroku",
+      "serverless"
+    ],
+    "version control": [
+      "git",
+      "github",
+      "gitlab",
+      "bitbucket"
+    ],
+    "backend frameworks": [
+      "fastapi",
+      "flask",
+      "django",
+      "spring boot",
+      "node.js",
+      "express",
+      "laravel",
+      "nestjs",
+      ".net"
+    ],
+    "frontend frameworks": [
+      "react",
+      "angular",
+      "vue",
+      "next.js",
+      "svelte"
+    ],
+    "python web frameworks": [
+      "fastapi",
+      "flask",
+      "django"
+    ],
+    "testing": [
+      "unit testing"
+    ],
+    "authentication": [
+  "jwt",
+  "oauth"
+],
+    "message queues": [
+      "kafka",
+      "rabbitmq"
+    ],
+    "big data": [
+      "apache spark",
+      "hadoop",
+      "kafka",
+      "databricks",
+      "snowflake",
+      "bigquery"
+    ],
+    "ml frameworks": [
+      "tensorflow",
+      "pytorch",
+      "keras",
+      "scikit-learn",
+      "xgboost"
+    ],
+    "css frameworks": [
+      "bootstrap",
+      "tailwind css"
+    ],
+    "monitoring tools": [
+      "prometheus",
+      "grafana"
+    ],
+    "testing frameworks": [
+      "jest",
+      "cypress",
+      "selenium",
+      "unit testing"
+    ],
+    "mobile development": [
+      "android",
+      "ios",
+      "flutter",
+      "react native",
+      "kotlin",
+      "swift"
+    ],
+    "data visualization tools": [
+      "tableau",
+      "power bi",
+      "plotly",
+      "matplotlib",
+      "seaborn"
+    ]
+  },
+  "notes": {
+    "relational databases": "A JD asking for 'relational databases' is satisfied by any resume skill in implies['relational databases'].",
+    "alias_matching": "Match aliases with boundary regex: (?<![\\w.+#])ALIAS(?![\\w.+#]), case-insensitive. Never use plain substring matching.",
+    "ambiguous_aliases": [
+      "go",
+      "rest",
+      "node",
+      "spring",
+      "cloud services",
+      "auth",
+      "torch",
+      "spark",
+      "swift",
+      "rust",
+      "ruby",
+      "networking",
+      "initiative",
+      "presenting",
+      "prompting",
+      "ssl",
+      "tls",
+      "bert",
+      "colab"
+    ],
+    "overlap_rule": "When aliases overlap in the same text span (e.g. 'gitlab ci' vs 'gitlab'), prefer the longest match and consume that span.",
+    "unmatched_log": "Log skills the LLM fallback adds; review weekly and promote good ones into this file.",
+    "v2_changes_to_existing_entries": "Removed bare alias 'cloud' from 'cloud platforms'; added ML aliases (random forest, linear regression, ...) to 'machine learning'. Everything else in v1 is unchanged; implies lists were only extended."
+  },
+  "version": 2
+}

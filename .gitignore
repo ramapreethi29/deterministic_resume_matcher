@@ -1,0 +1,15 @@
+@"
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+uploads/
+.DS_Store
+**/tests/
+**/test_*.py
+**/*_test.py
+"@ | Set-Content .gitignore
+data/llm_cache.json
+data/unresolved_skills.jsonl
